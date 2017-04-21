@@ -24,8 +24,8 @@ The goals / steps of this project are the following:
 [image6]: ./examples/binary_warped.png "Warp Example 3"
 [image7]: ./examples/find_lane.png "Two lanes"
 [image8]: ./examples/right_left.png "Right and Left lanes"
-[image9]: ./examples/poly_fit.png " "Poly fit"
-[image10]: ./examples/result1.png " "Result 1"
+[image9]: ./examples/poly_fit.png  "Poly fit"
+[image10]: ./examples/result1.png "Result 1"
 [video1]: ./project_video.mp4 "Video"
 
 ---
